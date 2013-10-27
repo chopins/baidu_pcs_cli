@@ -4,7 +4,7 @@
 
 #ifndef _BAIDU_PCS_H
 #define _BAIDU_PCS_H
-
+#include <inttypes.h>
 #include "http_client.h"
 #include "cJSON.h"
 #include <sys/types.h>
